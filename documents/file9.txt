@@ -1,0 +1,16 @@
+Systems and Software Product Line Engineering, abbreviated as Product Line Engineering (or PLE for short), is defined as the engineering of a portfolio of related products using a shared set of engineering assets and an efficient means of production.
+
+By considering a product line portfolio as a single entity to be managed, as opposed to a multitude of separate products to be managed individually, PLE enables organizations to create, maintain, and evolve an entire product line through each stage of the lifecycle with much higher degrees of efficiency than have been possible before.
+
+Product Line Engineering Factory>> View larger image.
+
+These efficiencies enable order-of-magnitude improvements in engineering cost, time to market, productivity, product line scalability, and quality – impacting the fundamentals of how organizations deliver and compete with their product lines.
+
+PLE and the factory paradigm
+Second Generation PLE (2GPLE) is centered on the creation of a PLE Factory. Hard-goods factories have long had the ability to produce variations of the same basic product; think of the size/color choice you can make for a pair of shoes, or the hundreds of options available on an automobile. PLE applies this same concept to the engineering artifacts that are in digital or "soft" form and that support a product.
+
+As shown in the illustration, engineering artifacts can include requirements, models and designs, source code, test cases, and much more, all of which need to be managed and produced in variants that match the product.
+
+These artifacts that support a product are called shared assets. Under this paradigm, these shared assets are imbued with variation points – that is, places where the assets can be instantiated in different ways to support each product in a product line. The collection of assets for all the products in the product line is called the shared asset superset. A PLE Factory configurator takes a product specification as input and configures the shared assets appropriately to produce the product	asset instances for that product.
+
+ 

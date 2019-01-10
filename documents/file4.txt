@@ -1,0 +1,3 @@
+Software Product Line Engineering as a field of study can be traced back to the mid-1970s, although examples of actual software product lines built by far-sighted practitioners can be found much earlier.
+
+Early generation SPL techniques and case studies have provided an invaluable view into the pros, cons and potential benefits of these approaches – establishing a solid foundation for the evolution of the field into a more repeatable, mature, well-defined discipline called Product Line Engineering (PLE). 

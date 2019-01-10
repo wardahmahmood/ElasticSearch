@@ -1,0 +1,35 @@
+A software product line is a set of software-reliant systems that share a common, managed set of features satisfying a particular market or mission area, and are built from a common set of core assets in a prescribed way. Producing a set of related products as a product line has allowed organizations to achieve increased quality and significant reductions in cost and time to market. But adopting a product line approach to software is both a technical and a business decision that involves many challenges. 
+
+What are the costs and benefits of a product line approach for your organization?
+How do you manage the production and use of core assets across the product line?
+How do you get a handle on the software engineering, technical management, and organizational management issues associated with software product line engineering?
+How do you structure your organization to coordinate the production of core assets and products?
+What are your organization's particular strengths and challenges with respect to a product line approach?
+How do software product lines relate to other current technology and business trends?
+This two-day course introduces the world of software product lines and the basic concepts behind it. The course also provides an overview of the essential technical and management practices needed to succeed with software product lines, as well as case studies, guidelines and patterns for applying product line techniques. This course, which is also included in the SEI Software Architecture Curriculum, is based on the book Software Product Lines: Practices and Patterns 
+
+The goal of this course is for participants to understand the fundamental concepts and practices involved in software product lines.
+
+Audience
+software engineers and technical managers who are interested in effective reuse strategies
+software engineers and technical managers who are adopting or using a software product line approach
+Objectives
+This course provides attendees with a thorough overview of software product lines including
+
+the essential activities involved in fielding software product lines
+the costs and benefits of adopting a product line approach
+the software engineering, technical management, and organizational management practices necessary for achieving successful software product lines
+product line practice patterns that aid in product line adoption
+a product line diagnostic method and an adoption roadmap
+how a product line approach can be combined with other technology and business trends
+what product line practice patterns best apply to your organization
+a path to software product line adoption
+Topics
+fundamental concepts of software product lines
+the costs and benefits of using a product line approach
+essential product line activities
+software product line practice areas
+software product line practice patterns
+the SEI Product Line Technical Probe (PLTP)
+case studies of organizations that have achieved success with software product lines
+a phased approach for adopting software product lines

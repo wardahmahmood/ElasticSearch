@@ -1,0 +1,13 @@
+A distillation of first generation approaches includes:
+
+A strong dichotomy between domain engineering and application engineering, or core asset development and product development. Application engineering is often said to include creating any assets used only in a single product, and promoting them to core asset status only if subsequently used in more. Application engineering includes the obligation to choose a production strategy – that is, a way to turn the shared assets into products.
+
+Explicit inclusion of non-software artifacts in the collection of core assets, but an unmistakable emphasis on software (under the umbrella of an all-encompassing software architecture) as the principal kind of core asset.
+
+Focus on features as the language to describe a product line's domain and a way to discriminate products from each other in that domain.
+
+Acknowledgment of configuration management as an essential practice under PLE, but without a strong distinction between core asset CM and product CM.
+
+No strong emphasis on unifying the variation mechanisms employed in different assets, nor on a centralized configurator to automate the product-derivation process.
+
+These approaches form the foundation on which Second Generation Product Line Engineering, the current state of the art and the main subject of this website, has been built.
